@@ -7,7 +7,7 @@ The requirements to execute/setup environment for scripts.
 #### Installation
 This will guide you through all the way to setup your task
 
-#### Executing Scripts
+#### Executing scripts
 You must describe here how to execute the script in an environment
 For Example:
 ```
