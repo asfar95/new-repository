@@ -1,6 +1,6 @@
 Below is the sample to create docmumenation for each of script you created.
 
-- **<your_script_name>**
+**<your_script_name>**
 	#### Prerequisites
 	The requirements to execute/setup environment for scripts.
 	

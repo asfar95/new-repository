@@ -1,7 +1,7 @@
 # Nisum Global IT Scripts
 This repsoitory contains all the scripts used by Nisum Global-IT sector.
 
-## Getting Started
+# Getting Started
 In order to make things simpler, Please follow the below structure for each of your task.
 
 # Setting Up Project/Task Folder Stucture
