@@ -17,4 +17,4 @@ $ rm -rf myfile.txt
 
 #### Parameters	 
 **-r** : Recursively remove directories and subdirectories  
-**-f** : Remove all files in a directory without prompting the user 
+**-f** : Remove files forcefully 
