@@ -1,19 +1,19 @@
-# Project Title
-Description goes here
+# Nisum Global IT Scripts
+This repsoitory contains all the scripts used by Nisum Global-IT sector.
+
 ## Getting Started
-### Prerequisites
-* Requirement 1
-* Requirement 2
-* Requirement 3
-### Setting Up Project Stucture
-The project hierarchy should be like this
+In order to make things simpler, Please follow the below structure for each of your task.
+
+# Setting Up Project/Task Folder Stucture
+Each of your task should follow the below folder structure.
+
 ```
- :file_folder: <your_task_name> //Each task with its own folder   
+	:<your_task_name_folder>
 	  |_ <your_script_1> 
 	  |_ <your_script_2>
 	  |_ <your_script_...n>
 	  |
-	  |_ README.md
+	  |_ README.md  // This will show you how to prepare README for your script(s).
 	  |
 	  |_ :file_folder: (conf)   //Each Task should have Conf folder with its configuration files           
 		  |_ (File1.xml)
