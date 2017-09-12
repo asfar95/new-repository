@@ -23,4 +23,6 @@ Each of your task should follow the below folder structure.
 				      
 ```
 
+Please refer to [Sample Project](https://github.com/asfar95/new-repository/tree/master/Task1) and its [README.md](https://github.com/asfar95/new-repository/blob/master/Task1/README.md) to get an clear idea about how to setup scripts.
+
   
