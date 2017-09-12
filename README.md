@@ -8,7 +8,7 @@ In order to make things simpler, Please follow the below structure for each of y
 Each of your task should follow the below folder structure.
 
 ```
-	:<your_task_name_folder>
+	- <your_task_name_folder>
 	  |_ <your_script_1> 
 	  |_ <your_script_2>
 	  |_ <your_script_...n>
