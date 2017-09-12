@@ -8,17 +8,19 @@ Description goes here
 ### Setting Up Project Stucture
 The project hierarchy should be like this
 ```
-         (Task_Name) //Each task with its own folder   
-              |_ (Scripts)
-              |
-              |_ (Conf)   //Each Task should have Conf folder with its configuration files           
+         :file_folder: <your_task_name> //Each task with its own folder   
+              |_ <your_script_1> 
+              |_ <your_script_2>
+			  |_ <your_script_...n>
+			  |
+			  |_ README.md
+			  |
+              |_ :file_folder: (conf)   //Each Task should have Conf folder with its configuration files           
                   |_ (File1.xml)
                   |_ (File2.conf)
                      .
                      .
-      
+				      
 ```
-### Executing Scripts
-Please Refer this [README.md](https://github.com/asfar95/new-repository/blob/master/Task1/README.md) to get a sight.
 
   
